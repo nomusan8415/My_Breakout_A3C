@@ -1,6 +1,6 @@
 # My_Breakout_A3C
 
-【概要】 
+【概要】
 
 ・PyGameを使った自作ブロック崩しを、OpenAI Gym環境で、ChainerRlのA3Cアルゴリズムで走らせる。 
 
@@ -8,7 +8,7 @@
 
 【現状】 
 
-PyGameがマルチスレッドに対応していないため、PROCESSES>2では異常終了する。PROCESSES=1では正常に走るが、A#Cとして意味をなさない。
+PyGameがマルチスレッドに対応していないため、PROCESSES>2では異常終了する。PROCESSES=1では正常に走るが、A3Cとして意味をなさない。
 
 【今後の予定】 
 
